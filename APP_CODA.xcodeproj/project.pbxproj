@@ -7,18 +7,55 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BD04037D27D72D55005AE10C /* Exercise1.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD04037C27D72D55005AE10C /* Exercise1.swift */; };
+		BD041C6727EC522000F0E5FC /* Rating.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD041C6627EC522000F0E5FC /* Rating.swift */; };
+		BD041C6927EC677D00F0E5FC /* ReviewView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD041C6827EC677D00F0E5FC /* ReviewView.swift */; };
+		BD0D4BB927ED98DC00129022 /* NewRestaurantView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD0D4BB827ED98DC00129022 /* NewRestaurantView.swift */; };
+		BD0D4BBB27EDA3A300129022 /* FormTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD0D4BBA27EDA3A300129022 /* FormTextField.swift */; };
+		BD0D4BBD27EDBC7400129022 /* FormTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD0D4BBC27EDBC7400129022 /* FormTextView.swift */; };
+		BD2103B627DCA47000346262 /* Restaurant.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD2103B527DCA47000346262 /* Restaurant.swift */; };
+		BD3300F727DF3B1400D85B6A /* ActivityView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD3300F627DF3B1400D85B6A /* ActivityView.swift */; };
+		BD3300FB27DF5B3900D85B6A /* RestaurantDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD3300FA27DF5B3900D85B6A /* RestaurantDetailView.swift */; };
+		BD42915C27D8764700A31D8C /* ListVeiw.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD42915B27D8764700A31D8C /* ListVeiw.swift */; };
+		BD42915E27D87DAE00A31D8C /* FoodPin.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD42915D27D87DAE00A31D8C /* FoodPin.swift */; };
 		BD7F2B2227D0CA3C00181248 /* APP_CODAApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD7F2B2127D0CA3C00181248 /* APP_CODAApp.swift */; };
 		BD7F2B2427D0CA3C00181248 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD7F2B2327D0CA3C00181248 /* ContentView.swift */; };
 		BD7F2B2627D0CA3D00181248 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD7F2B2527D0CA3D00181248 /* Assets.xcassets */; };
 		BD7F2B2927D0CA3D00181248 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD7F2B2827D0CA3D00181248 /* Preview Assets.xcassets */; };
+		BD7F2B3027D0DC7100181248 /* InstantDeveloper.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD7F2B2F27D0DC7100181248 /* InstantDeveloper.swift */; };
+		BD83D05B27F17FF500C2E4C4 /* PhotoSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD83D05A27F17FF500C2E4C4 /* PhotoSource.swift */; };
+		BD83D05E27F1883D00C2E4C4 /* ImagePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD83D05D27F1883D00C2E4C4 /* ImagePicker.swift */; };
+		BD8FBAF527E1E538005087BF /* Nunito-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BD8FBAF327E1E462005087BF /* Nunito-Bold.ttf */; };
+		BD8FBAF627E1E53B005087BF /* Nunito-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BD8FBAF427E1E475005087BF /* Nunito-Regular.ttf */; };
+		BDE23EF627EADB97006CB5CA /* UIColor+Ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDE23EF527EADB97006CB5CA /* UIColor+Ext.swift */; };
+		BDE23EF827EAF7A3006CB5CA /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDE23EF727EAF7A3006CB5CA /* MapView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		BD04037C27D72D55005AE10C /* Exercise1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exercise1.swift; sourceTree = "<group>"; };
+		BD041C6627EC522000F0E5FC /* Rating.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Rating.swift; sourceTree = "<group>"; };
+		BD041C6827EC677D00F0E5FC /* ReviewView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReviewView.swift; sourceTree = "<group>"; };
+		BD0D4BB827ED98DC00129022 /* NewRestaurantView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewRestaurantView.swift; sourceTree = "<group>"; };
+		BD0D4BBA27EDA3A300129022 /* FormTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FormTextField.swift; sourceTree = "<group>"; };
+		BD0D4BBC27EDBC7400129022 /* FormTextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FormTextView.swift; sourceTree = "<group>"; };
+		BD2103B527DCA47000346262 /* Restaurant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Restaurant.swift; sourceTree = "<group>"; };
+		BD3300F627DF3B1400D85B6A /* ActivityView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActivityView.swift; sourceTree = "<group>"; };
+		BD3300FA27DF5B3900D85B6A /* RestaurantDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RestaurantDetailView.swift; sourceTree = "<group>"; };
+		BD42915B27D8764700A31D8C /* ListVeiw.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListVeiw.swift; sourceTree = "<group>"; };
+		BD42915D27D87DAE00A31D8C /* FoodPin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodPin.swift; sourceTree = "<group>"; };
 		BD7F2B1E27D0CA3C00181248 /* APP_CODA.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = APP_CODA.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BD7F2B2127D0CA3C00181248 /* APP_CODAApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APP_CODAApp.swift; sourceTree = "<group>"; };
 		BD7F2B2327D0CA3C00181248 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		BD7F2B2527D0CA3D00181248 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BD7F2B2827D0CA3D00181248 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		BD7F2B2F27D0DC7100181248 /* InstantDeveloper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InstantDeveloper.swift; sourceTree = "<group>"; };
+		BD83D05A27F17FF500C2E4C4 /* PhotoSource.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoSource.swift; sourceTree = "<group>"; };
+		BD83D05D27F1883D00C2E4C4 /* ImagePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePicker.swift; sourceTree = "<group>"; };
+		BD8FBAF327E1E462005087BF /* Nunito-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Nunito-Bold.ttf"; sourceTree = "<group>"; };
+		BD8FBAF427E1E475005087BF /* Nunito-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Nunito-Regular.ttf"; sourceTree = "<group>"; };
+		BD8FBAF727E1E5BD005087BF /* APP-CODA-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = "APP-CODA-Info.plist"; sourceTree = SOURCE_ROOT; };
+		BDE23EF527EADB97006CB5CA /* UIColor+Ext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIColor+Ext.swift"; sourceTree = "<group>"; };
+		BDE23EF727EAF7A3006CB5CA /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -32,6 +69,35 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		BD2103B727DCB51A00346262 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				BD7F2B2327D0CA3C00181248 /* ContentView.swift */,
+				BD04037C27D72D55005AE10C /* Exercise1.swift */,
+				BD7F2B2F27D0DC7100181248 /* InstantDeveloper.swift */,
+				BD3300FA27DF5B3900D85B6A /* RestaurantDetailView.swift */,
+				BD42915B27D8764700A31D8C /* ListVeiw.swift */,
+				BD0D4BBA27EDA3A300129022 /* FormTextField.swift */,
+				BD0D4BB827ED98DC00129022 /* NewRestaurantView.swift */,
+				BD0D4BBC27EDBC7400129022 /* FormTextView.swift */,
+				BDE23EF727EAF7A3006CB5CA /* MapView.swift */,
+				BD42915D27D87DAE00A31D8C /* FoodPin.swift */,
+				BD041C6827EC677D00F0E5FC /* ReviewView.swift */,
+				BD3300F627DF3B1400D85B6A /* ActivityView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		BD2103B827DCB52B00346262 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				BD2103B527DCA47000346262 /* Restaurant.swift */,
+				BD041C6627EC522000F0E5FC /* Rating.swift */,
+				BD83D05A27F17FF500C2E4C4 /* PhotoSource.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
 		BD7F2B1527D0CA3C00181248 = {
 			isa = PBXGroup;
 			children = (
@@ -51,8 +117,13 @@
 		BD7F2B2027D0CA3C00181248 /* APP_CODA */ = {
 			isa = PBXGroup;
 			children = (
+				BD8FBAF727E1E5BD005087BF /* APP-CODA-Info.plist */,
+				BD8FBAF127E1E3E7005087BF /* Resources */,
+				BD83D05C27F1882700C2E4C4 /* Util */,
+				BDE23EF427EADB6E006CB5CA /* Extensions */,
+				BD2103B827DCB52B00346262 /* Model */,
+				BD2103B727DCB51A00346262 /* View */,
 				BD7F2B2127D0CA3C00181248 /* APP_CODAApp.swift */,
-				BD7F2B2327D0CA3C00181248 /* ContentView.swift */,
 				BD7F2B2527D0CA3D00181248 /* Assets.xcassets */,
 				BD7F2B2727D0CA3D00181248 /* Preview Content */,
 			);
@@ -65,6 +136,39 @@
 				BD7F2B2827D0CA3D00181248 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		BD83D05C27F1882700C2E4C4 /* Util */ = {
+			isa = PBXGroup;
+			children = (
+				BD83D05D27F1883D00C2E4C4 /* ImagePicker.swift */,
+			);
+			path = Util;
+			sourceTree = "<group>";
+		};
+		BD8FBAF127E1E3E7005087BF /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				BD8FBAF227E1E402005087BF /* Fonts */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		BD8FBAF227E1E402005087BF /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				BD8FBAF327E1E462005087BF /* Nunito-Bold.ttf */,
+				BD8FBAF427E1E475005087BF /* Nunito-Regular.ttf */,
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
+		BDE23EF427EADB6E006CB5CA /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				BDE23EF527EADB97006CB5CA /* UIColor+Ext.swift */,
+			);
+			path = Extensions;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -126,6 +230,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				BD7F2B2927D0CA3D00181248 /* Preview Assets.xcassets in Resources */,
+				BD8FBAF527E1E538005087BF /* Nunito-Bold.ttf in Resources */,
+				BD8FBAF627E1E53B005087BF /* Nunito-Regular.ttf in Resources */,
 				BD7F2B2627D0CA3D00181248 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -137,8 +243,24 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BD041C6727EC522000F0E5FC /* Rating.swift in Sources */,
+				BD0D4BBD27EDBC7400129022 /* FormTextView.swift in Sources */,
+				BD83D05B27F17FF500C2E4C4 /* PhotoSource.swift in Sources */,
+				BD83D05E27F1883D00C2E4C4 /* ImagePicker.swift in Sources */,
+				BD0D4BBB27EDA3A300129022 /* FormTextField.swift in Sources */,
 				BD7F2B2427D0CA3C00181248 /* ContentView.swift in Sources */,
+				BD2103B627DCA47000346262 /* Restaurant.swift in Sources */,
+				BD7F2B3027D0DC7100181248 /* InstantDeveloper.swift in Sources */,
+				BDE23EF827EAF7A3006CB5CA /* MapView.swift in Sources */,
+				BD041C6927EC677D00F0E5FC /* ReviewView.swift in Sources */,
 				BD7F2B2227D0CA3C00181248 /* APP_CODAApp.swift in Sources */,
+				BD04037D27D72D55005AE10C /* Exercise1.swift in Sources */,
+				BD0D4BB927ED98DC00129022 /* NewRestaurantView.swift in Sources */,
+				BD3300FB27DF5B3900D85B6A /* RestaurantDetailView.swift in Sources */,
+				BD3300F727DF3B1400D85B6A /* ActivityView.swift in Sources */,
+				BDE23EF627EADB97006CB5CA /* UIColor+Ext.swift in Sources */,
+				BD42915C27D8764700A31D8C /* ListVeiw.swift in Sources */,
+				BD42915E27D87DAE00A31D8C /* FoodPin.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -271,6 +393,7 @@
 				DEVELOPMENT_ASSET_PATHS = "\"APP_CODA/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "APP-CODA-Info.plist";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -299,6 +422,7 @@
 				DEVELOPMENT_ASSET_PATHS = "\"APP_CODA/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "APP-CODA-Info.plist";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
